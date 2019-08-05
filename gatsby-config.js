@@ -108,7 +108,7 @@ module.exports = {
     `gatsby-plugin-lodash`,
     `gatsby-plugin-glamor`,
     `gatsby-plugin-sitemap`,
-    // `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-netlify-cms`,
     'gatsby-plugin-offline',
     `gatsby-plugin-netlify`, 
 

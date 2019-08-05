@@ -47,7 +47,7 @@ const auth = isBrowser
     }
   
     if (authResult && authResult.accessToken && authResult.idToken) {
-      let expiresAt = 1800 * 1000 + new Date().getTime()
+      let expiresAt = 600 * 1000 + new Date().getTime()
       if(!localStorage.getItem("expiresAt")){
         localStorage.setItem("expiresAt", expiresAt)
       }
