@@ -67,7 +67,7 @@
     "react-typing-animation": "^1.6.2",
     "remark": "^10.0.1",
     "remark-html": "^9.0.1",
-    "showdown": "^1.9.0",
+    "showdown": "^1.9.1",
     "styled-components": "^4.3.2",
     "styled-icons": "^7.15.1",
     "typed.js": "^2.0.10"
