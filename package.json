@@ -66,7 +66,7 @@
     "react-transition-group": "^2.9.0",
     "react-typing-animation": "^1.6.2",
     "remark": "^10.0.1",
-    "remark-html": "^9.0.1",
+    "remark-html": "^13.0.2",
     "showdown": "^1.9.0",
     "styled-components": "^4.3.2",
     "styled-icons": "^7.15.1",
